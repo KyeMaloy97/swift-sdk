@@ -60,7 +60,7 @@ By making a contribution to this project, I certify that:
 
 ## Additional Resources
 + [General GitHub documentation](https://help.github.com/)
-+ [GitHub pull request documentation](https://help.github.com/send-pull-requests/)
++ [GitHub pull request documentation](https://help.github.com/articles/creating-a-pull-request/)
 
 [dw]: https://developer.ibm.com/answers/questions/ask/?topics=watson
 [stackoverflow]: http://stackoverflow.com/questions/ask?tags=ibm-watson
